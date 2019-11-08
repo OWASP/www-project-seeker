@@ -3,8 +3,9 @@
 layout: col-sidebar
 title: OWASP [GROUPNAME]
 tags: example-tag
-level: 1
-type: 
+level: 2
+type: tool
+pitch: The Seeker is a unique ML-based tool for hardcoded credentials discovery in source code. It can help to prevent information leakage        and other malicious consequences.
 
 ---
 
