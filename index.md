@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
+title: OWASP Seeker
 tags: example-tag
 level: 2
 type: tool
