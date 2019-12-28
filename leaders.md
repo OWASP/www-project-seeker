@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Igor Bakalo](mailto://)
+* [Igor Bakalo](mailto:)
