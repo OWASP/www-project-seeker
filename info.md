@@ -1,17 +1,8 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
+### Audience
 * [Builder](#)
 * [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/bakalor/seeker)
 
-### Change Log
-* [changes](#)
 
